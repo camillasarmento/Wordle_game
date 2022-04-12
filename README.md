@@ -1,1 +1,1 @@
-# flanks_assessment
+# Wordle
